@@ -1,5 +1,12 @@
 # algorithm
 leetcode刷题记录
 
-[leetcode 4](./leetcode4.md)
+
+
+| ProblemID | Solution                               | Tags         | Difficulty |
+| --------- | -------------------------------------- | ------------ | ---------- |
+| 3         | [无重复字符的最长子串](./leetcode3.md) | Two_Pointers | Medium     |
+|           |                                        |              |            |
+|           |                                        |              |            |
+|           |                                        |              |            |
 
