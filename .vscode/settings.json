@@ -1,0 +1,32 @@
+{
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "explorer.confirmDelete": false,
+  "editor.tokenColorCustomizations": {
+    "strings": "#00DB00"
+  },
+  "vim.useCtrlKeys": false,
+  "workbench.colorTheme": "Darcula Theme from IntelliJ",
+  "emmet.triggerExpansionOnTab": true,
+  "prettier.requireConfig": true,
+  "workbench.iconTheme": "vscode-icons-mac",
+  "sync.gist": "fba97352e8dbcd2e18beefa9fbc8921b",
+  "fileheader.Author": "qpf",
+  "fileheader.LastModifiedBy": "qpf",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "eslint.validate": ["vue", "html", "javascript", "typescript", "javascriptreact", "typescriptreact"],
+  "files.associations": {
+    "*.js": "javascriptreact"
+  }
+}
